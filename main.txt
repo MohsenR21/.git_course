@@ -2,6 +2,11 @@ the name of this file is main.txt
 I want to add the second line.
 I want to add the third line.
 the name of this file is main.txt
+<<<<<<< Updated upstream
 ----------------------
 +++++++++++++++++++++
 *************************
+=======
+uuuuuuuuuuuuuuut
+tttttttttttttttttttttttt
+>>>>>>> Stashed changes
